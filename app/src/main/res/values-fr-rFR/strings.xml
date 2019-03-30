@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MesLivres</string>
+    <string name="Error_message">Impossible de trouver un livre :(</string>
+    <string name="label_textView">Entrez un titre...</string>
+    <string name="button_label">Trouver un livre</string>
+    <string name="author">Auteur: </string>
+    <string name="publisher">Éditeur: </string>
+    <string name="storeUrl">Où acheter: </string>
+    <string name="price">Prix: €</string>
+</resources>
